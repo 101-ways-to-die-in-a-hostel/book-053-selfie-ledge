@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A travel blogger steps backward onto an unstable ledge to get the perfect shot and discovers that some pictures are worth dying for.",
     "long": ""
   },
   "death_type": "Selfie Ledge",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "One step back from forever."
 }
